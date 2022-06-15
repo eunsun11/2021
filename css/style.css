@@ -110,8 +110,8 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 .swiper-pagination-clickable .swiper-pagination-bullet{cursor:pointer}
 .swiper-container-vertical>.swiper-pagination-bullets .swiper-pagination-bullet{margin:6px 0; right: 80px; display:block}
 .swiper-button-next,.swiper-button-prev{position:absolute; z-index:10; cursor:pointer; bottom: 110px; right: 0;}
-.swiper-button-prev:after{content:''; width: 20px; height: 50px; background: url('../images/ico_prev.svg') no-repeat center 0; background-size: cover; position: absolute; top: 0; right: 60px;}
-.swiper-button-next:after{content:''; width: 20px; height: 50px; background: url('../images/ico_next.svg') no-repeat center 0; background-size: cover; position: absolute; top: 0; right: 30px;}
+.swiper-button-prev:after{content:''; width: 20px; height: 50px; background: url('http://eunsun.dothome.co.kr/web2/images/ico_prev.svg') no-repeat center 0; background-size: cover; position: absolute; top: 0; right: 60px;}
+.swiper-button-next:after{content:''; width: 20px; height: 50px; background: url('http://eunsun.dothome.co.kr/web2/images/ico_next.svg') no-repeat center 0; background-size: cover; position: absolute; top: 0; right: 30px;}
 #annual_wrap .a_slider2 .swiper-pagination-bullets{bottom: 20px; text-align: right; padding-right: 30px;}
 #annual_wrap .a_slider2 .swiper-pagination-bullets span{display: inline-block; width: 15px; height: 15px; font-weight: 800; line-height: 20px; text-align: center; margin: 0 10px; border-radius: 0; background-color: #DDD; border: none;}
 #annual_wrap .a_slider2 .swiper-pagination span.swiper-pagination-bullet-active{width: 15px; height: 15px; background-color: #333;}
@@ -137,34 +137,34 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 #annual_wrap .list_cont li>span{display: table-cell; color: #656565;}
 #annual_wrap .list_tit{font-weight: 500; font-size: 16px; margin-bottom: 10px; font-family: "Noto Sans KR", sans-serif;}
 
-#annual_wrap #cont01_1{background-image: url('../images/intro.jpg'); background-position: 0 70%;}
+#annual_wrap #cont01_1{background-image: url('http://eunsun.dothome.co.kr/web2/images/intro.jpg'); background-position: 0 70%;}
 #annual_wrap #cont01_2 .txt_area{padding: 60px;}
 #annual_wrap #cont01_2 .txt_area~.txt_area{padding-top: 0;}
 #annual_wrap #cont01_2 .vision{position: absolute; bottom: 0;}
-#annual_wrap #cont01_2.bg{background-image: url('../images/mission_vision.jpg');}
-#annual_wrap #cont01_3 .bg{background-image: url('../images/administration2_bg.jpg');}
-#annual_wrap #cont01_4 .bg{background-image: url('../images/administration1_bg.jpg');}
-#annual_wrap #cont02_1{background-image: url('../images/performances1.jpg');}
-#annual_wrap #cont02_2.bg{background-image: url('../images/performances2.jpg'); background-position: left center;}
-#annual_wrap #cont02_3 .bg{background-image: url('../images/performances3.jpg');}
-#annual_wrap #cont02_4.bg{background-image: url('../images/concerts1.jpg');}
-#annual_wrap #cont02_5 .bg{background-image: url('../images/concerts3.jpg');}
-#annual_wrap #cont02_6.bg{background-image: url('../images/visual_arts4.jpg');}
-#annual_wrap #cont02_7 .bg{background-image: url('../images/visual_arts6.jpg');}
-#annual_wrap #cont02_8.bg{background-image: url('../images/sac_on_screen1.jpg');}
-#annual_wrap #cont02_9 .bg{background-image: url('../images/sac_on_screen2.jpg');}
-#annual_wrap #cont02_10.bg{background-image: url('../images/education2.jpg');}
+#annual_wrap #cont01_2.bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/mission_vision.jpg');}
+#annual_wrap #cont01_3 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/administration2_bg.jpg');}
+#annual_wrap #cont01_4 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/administration1_bg.jpg');}
+#annual_wrap #cont02_1{background-image: url('http://eunsun.dothome.co.kr/web2/images/performances1.jpg');}
+#annual_wrap #cont02_2.bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/performances2.jpg'); background-position: left center;}
+#annual_wrap #cont02_3 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/performances3.jpg');}
+#annual_wrap #cont02_4.bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/concerts1.jpg');}
+#annual_wrap #cont02_5 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/concerts3.jpg');}
+#annual_wrap #cont02_6.bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/visual_arts4.jpg');}
+#annual_wrap #cont02_7 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/visual_arts6.jpg');}
+#annual_wrap #cont02_8.bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/sac_on_screen1.jpg');}
+#annual_wrap #cont02_9 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/sac_on_screen2.jpg');}
+#annual_wrap #cont02_10.bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/education2.jpg');}
 #annual_wrap #cont02_10 .f_left{background-color: #020204;}
-#annual_wrap #cont03_1{background-image: url('../images/administration_1.jpg'); background-position: center 0;}
+#annual_wrap #cont03_1{background-image: url('http://eunsun.dothome.co.kr/web2/images/administration_1.jpg'); background-position: center 0;}
 #annual_wrap #cont03_1 .main_txt h2{color: #1f1f2a;}
 #annual_wrap #cont03_1 .main_txt li{color: #1f1f2a; border-bottom: 1px #1f1f2a solid;}
-/* #annual_wrap #cont03_2 .bg{background-image: url('../images/social_contributions.jpg');} */
-#annual_wrap #cont03_2 .imgfade .img01{background-image: url('../images/social_contributions.jpg');}
-#annual_wrap #cont03_2 .imgfade .img02{background-image: url('../images/social_contributions2.jpg'); background-size: 100%; background-color: #000; background-position: 0 0;}
-#annual_wrap #cont03_3 .bg{background-image: url('../images/customer_services.jpg');}
+/* #annual_wrap #cont03_2 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/social_contributions.jpg');} */
+#annual_wrap #cont03_2 .imgfade .img01{background-image: url('http://eunsun.dothome.co.kr/web2/images/social_contributions.jpg');}
+#annual_wrap #cont03_2 .imgfade .img02{background-image: url('http://eunsun.dothome.co.kr/web2/images/social_contributions2.jpg'); background-size: 100%; background-color: #000; background-position: 0 0;}
+#annual_wrap #cont03_3 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/customer_services.jpg');}
 #annual_wrap #cont03_6 .staf_list ul.step01 li{word-break: keep-all;}
-#annual_wrap #cont03_4 .bg{background-image: url('../images/public_relations2.jpg');}
-#annual_wrap #cont03_7 .bg{background-image: url('../images/public_relations.jpg');}
+#annual_wrap #cont03_4 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/public_relations2.jpg');}
+#annual_wrap #cont03_7 .bg{background-image: url('http://eunsun.dothome.co.kr/web2/images/public_relations.jpg');}
 #annual_wrap #cont03_7 b{font-weight: normal;}
 #annual_wrap #cont03_7 .staf_list ul.step01 .f_style01{font-weight: normal;}
 #annual_wrap #cont03_7 .inner{display: flex;}
@@ -175,9 +175,9 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 #annual_wrap #cont03_5 .list_cont img{vertical-align: middle; margin-right: 10px;}
 #annual_wrap #cont03_5 .inner{position: relative;}
 #annual_wrap #cont03_5 .mobile_img{position: absolute; right: 2%; bottom: -10%; width: 35%;}
-#annual_wrap #cont04_1{background-image: url('../images/financials_statistics.jpg');}
+#annual_wrap #cont04_1{background-image: url('http://eunsun.dothome.co.kr/web2/images/financials_statistics.jpg');}
 
-#annual_wrap .history .txt_cont{width: 100%; height: 90%; margin: 0 auto; overflow-y: scroll; overflow-x: hidden; background-image: url('../images/bg_line.jpg'); background-repeat: repeat-y; position: relative; background-position: center; background-size: auto;}
+#annual_wrap .history .txt_cont{width: 100%; height: 90%; margin: 0 auto; overflow-y: scroll; overflow-x: hidden; background-image: url('http://eunsun.dothome.co.kr/web2/images/bg_line.jpg'); background-repeat: repeat-y; position: relative; background-position: center; background-size: auto;}
 #annual_wrap .history ol li:after{ content: ""; display: block; height: 0; clear: both; visibility: hidden;} 
 #annual_wrap .history ol li>div{width: 49%; position: relative; padding: 10px; word-break: keep-all;}
 #annual_wrap .history ol li .history-r{float: right; padding: 0 10px;}
@@ -194,8 +194,8 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 #annual_wrap .staf_list ul.step03 li{display: inline-block;}
 
 #annual_wrap .select_btn_area{position: relative;}
-#annual_wrap .select_tit{width: 100%; font-weight: 800; border: 1px solid #333; text-align: left; padding: 12px 20px 12px 20px; background-image: url('../images/arrow.png'); background-position: 98% center; background-size: auto; background-color: #fff;}
-#annual_wrap .select_tit.open{background-image: url('../images/arrow2.png');}
+#annual_wrap .select_tit{width: 100%; font-weight: 800; border: 1px solid #333; text-align: left; padding: 12px 20px 12px 20px; background-image: url('http://eunsun.dothome.co.kr/web2/images/arrow.png'); background-position: 98% center; background-size: auto; background-color: #fff;}
+#annual_wrap .select_tit.open{background-image: url('http://eunsun.dothome.co.kr/web2/images/arrow2.png');}
 #annual_wrap .select_ul{width: 100%; position: absolute; top: 40px; left: 0; border: 1px solid #333;}
 #annual_wrap .select_ul li{width: 100%; padding: 12px 0 12px 20px; background: #FFF; border: 1px solid #e1e1e1; border-top: none; font-weight: 800;}
 #annual_wrap .select_in{margin-top: 10px;}
@@ -203,8 +203,8 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 #annual_wrap .select_in li.on{display: block;}
       
 #annual_wrap #Accordion_wrap {border-top: 1px solid black; border-bottom: 1px solid black; clear: both;}
-#annual_wrap #Accordion_wrap .que{position: relative; padding: 17px 30px 17px 5px; cursor: pointer; border-top: 1px solid #ddd; font-weight: bold; background-image: url('../images/arrow.png'); background-position: 98% center; background-size: auto;}     
-#annual_wrap #Accordion_wrap .que.on{background-image: url('../images/arrow2.png');}
+#annual_wrap #Accordion_wrap .que{position: relative; padding: 17px 30px 17px 5px; cursor: pointer; border-top: 1px solid #ddd; font-weight: bold; background-image: url('http://eunsun.dothome.co.kr/web2/images/arrow.png'); background-position: 98% center; background-size: auto;}     
+#annual_wrap #Accordion_wrap .que.on{background-image: url('http://eunsun.dothome.co.kr/web2/images/arrow2.png');}
 #annual_wrap #Accordion_wrap .que span{font-size: 20px;}
 #annual_wrap #Accordion_wrap .anw {display: none; overflow: hidden;}
 
@@ -221,11 +221,11 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 
 #annual_wrap .imgfade {margin: 0 auto; position: relative; width: 100%; height: 100%; padding: 0;}
 #annual_wrap .imgfade > div {position: absolute; width: 100%; height: 100%; background-size: cover; background-position: center;}
-#annual_wrap .imgfade .img01{background-image: url('../images/fade1.jpg');}
-#annual_wrap .imgfade .img02{background-image: url('../images/fade2.jpg');}
-#annual_wrap .imgfade .img03{background-image: url('../images/fade3.jpg');}
-#annual_wrap .imgfade .img04{background-image: url('../images/fade4.jpg');}
-#annual_wrap .imgfade .img05{background-image: url('../images/fade5.jpg');}
+#annual_wrap .imgfade .img01{background-image: url('http://eunsun.dothome.co.kr/web2/images/fade1.jpg');}
+#annual_wrap .imgfade .img02{background-image: url('http://eunsun.dothome.co.kr/web2/images/fade2.jpg');}
+#annual_wrap .imgfade .img03{background-image: url('http://eunsun.dothome.co.kr/web2/images/fade3.jpg');}
+#annual_wrap .imgfade .img04{background-image: url('http://eunsun.dothome.co.kr/web2/images/fade4.jpg');}
+#annual_wrap .imgfade .img05{background-image: url('http://eunsun.dothome.co.kr/web2/images/fade5.jpg');}
 #annual_wrap .mousey {display: none; width: 3px; padding: 5px 10px; height: 30px; border: 2px solid #9f9f9f; border-radius: 25px; opacity: 0.75; box-sizing: content-box; position: absolute; bottom: 50px; right: 10px;}
 #annual_wrap .scroller {width: 3px; height: 10px; border-radius: 25%; background-color: #9f9f9f; animation-name: scroll; animation-duration: 2.2s; animation-timing-function: cubic-bezier(.15,.41,.69,.94); animation-iteration-count: infinite;}
   
