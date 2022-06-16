@@ -172,9 +172,23 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
 #annual_wrap #cont03_7 .cell:first-child{border: none; padding: 0 5px;}
 #annual_wrap #cont03_7 .cell:last-child{margin-top: 60px; padding: 0 5px;}
 #annual_wrap #cont03_5 .list_cont .list_tit{margin-bottom: 20px;}
-#annual_wrap #cont03_5 .list_cont img{vertical-align: middle; margin-right: 10px;}
 #annual_wrap #cont03_5 .inner{position: relative;}
-#annual_wrap #cont03_5 .mobile_img{position: absolute; right: 2%; bottom: -10%; width: 35%;}
+#annual_wrap #cont03_5 .sns_list{display: flex; align-items: center;}
+#annual_wrap #cont03_5 .sns_list ul{width: 73%;}
+#annual_wrap #cont03_5 .sns_list .mobile_img{width: 27%;}
+#annual_wrap #cont03_5 .sns_list ul li{width: 49%; height: 9vh; font-size: 0; background-size: 100%; border-bottom: none;}
+#annual_wrap #cont03_5 .sns_list ul li a{display: block; width: 100%; height: 100%; font-size: 0;}
+#annual_wrap #cont03_5 .sns_list ul li:nth-child(odd) {float: left;}
+#annual_wrap #cont03_5 .sns_list ul li:nth-child(2n) {float: right; margin-left: 1%;}
+#annual_wrap #cont03_5 .sns_list .instagram{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns01.png');}
+#annual_wrap #cont03_5 .sns_list .naver_blog{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns02.png');}
+#annual_wrap #cont03_5 .sns_list .facebook{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns03.png');}
+#annual_wrap #cont03_5 .sns_list .naver_tv{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns04.png');}
+#annual_wrap #cont03_5 .sns_list .twitter{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns05.png');}
+#annual_wrap #cont03_5 .sns_list .kakao{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns06.png');}
+#annual_wrap #cont03_5 .sns_list .naver_post{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns07.png');}
+#annual_wrap #cont03_5 .sns_list .youtube{background-image: url('http://eunsun.dothome.co.kr/web2/images/sns08.png');}
+/* #annual_wrap #cont03_5 .mobile_img{position: absolute; right: 2%; bottom: -10%; width: 35%;} */
 #annual_wrap #cont04_1{background-image: url('http://eunsun.dothome.co.kr/web2/images/financials_statistics.jpg');}
 
 #annual_wrap .history .txt_cont{width: 100%; height: 90%; margin: 0 auto; overflow-y: scroll; overflow-x: hidden; background-image: url('http://eunsun.dothome.co.kr/web2/images/bg_line.jpg'); background-repeat: repeat-y; position: relative; background-position: center; background-size: auto;}
@@ -295,6 +309,12 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-
     #annual_wrap #chart06{height: 63vw; margin-top: -15vw; margin-bottom: 10vw;}
     #annual_wrap #chart07{height: 63vw; margin-top: -15vw;}
     #annual_wrap .a_slider2 .swiper-pagination-bullets{right: 0;}
+    #annual_wrap #cont03_5 .sns_list{display: block;}
+    #annual_wrap #cont03_5 .sns_list ul{width: 100%;}
+    #annual_wrap #cont03_5 .sns_list ul li{width: 90%; margin: 0 auto; height: 10vh;}
+    #annual_wrap #cont03_5 .sns_list ul li:nth-child(odd){float: none;}
+    #annual_wrap #cont03_5 .sns_list ul li:nth-child(2n){float: none; margin: 0 auto;}
+    #annual_wrap #cont03_5 .sns_list .mobile_img{width: 100%;}
 }
 @media screen and (max-width: 375px) {
     #annual_wrap h1{font-size: 30px; left: 5%;}
